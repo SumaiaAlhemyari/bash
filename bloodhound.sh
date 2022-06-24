@@ -1,6 +1,6 @@
 #!/bin/bash
 #this script will search the records of a website using 
-#host, dig, whois, nslookup, and whatweb
+#host, dig, whois, nslookup, Wafw00f and whatweb
 
 #HOST
  
